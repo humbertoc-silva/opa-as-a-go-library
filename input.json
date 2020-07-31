@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "request": {
+      "http": {
+        "method": "GET",
+        "path": "/users-data",
+        "headers": {
+          "authorization": "Bearer eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJhdWQiOiBbInVzZXItZGF0YS1zZXJ2aWNlIl0sICJleHAiOiAxNTk4OTE4Mzk5LCAiaWF0IjogMTU5MzY0Nzk5OSwgImlzcyI6ICJodHRwczovL2FzLmNvbSIsICJuYW1lIjogIkpvaG4gRG9lIiwgInNjb3BlIjogInJlYWQiLCAic3ViIjogIjEyMzQ1Njc4OTAifQ.Gi5DhnnYM-Ba-APt-hBcmZJa1VnItj1LR4Cts9KWo60"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+#!/bin/bash
+go run main.go policy.rego 'data.acm.user_data.allow' < input.json
